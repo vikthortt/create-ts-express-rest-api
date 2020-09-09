@@ -1,0 +1,23 @@
+{
+  "name": "create-ts-express-rest-api",
+  "version": "1.0.0",
+  "description": "npm initializer for the ts-express-rest-api",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikthortt/create-ts-express-rest-api.git"
+  },
+  "author": "Victor Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikthortt/create-ts-express-rest-api/issues"
+  },
+  "homepage": "https://github.com/vikthortt/create-ts-express-rest-api#readme",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
